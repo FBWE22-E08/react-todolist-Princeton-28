@@ -10,6 +10,6 @@
     ![Mock-up-image](Mock-up-image.png)
 
 **Bonuses**
-
+P
 -   Show a message to the user if the task already exists.
 -   Show a message to the user when adding an empty task.
